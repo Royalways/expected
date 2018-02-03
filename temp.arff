@@ -1,0 +1,9 @@
+@relation temp
+
+@attribute X numeric
+@attribute Y numeric
+
+@data
+1,3
+2,3.9
+3,5.5
